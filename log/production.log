@@ -1,0 +1,427 @@
+INFO: [a3065fe6-ca3d-4485-8387-962e764f264c] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=364.53 view=324.65 db=15.74 host=greenlight 
+INFO: [afe63e85-8e36-4ff1-b2bf-29cd905530a8] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=324.52 view=275.92 db=13.29 host=greenlight 
+INFO: [6133c0d8-292c-4bfc-9b5f-26f3c4c007d5] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=337.97 view=292.47 db=11.41 host=greenlight 
+INFO: [25f1e7d5-cd9e-43fd-9775-1ace40744786] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=111.28 view=51.79 db=12.11 host=greenlight 
+INFO: [ddc4b8c0-7a69-483b-b5ee-317e8b546b25] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=95.86 view=50.38 db=10.18 host=greenlight 
+INFO: [fbfb8bf7-ab59-4d43-9508-c0724a888bc1] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=22.81 view=15.62 db=0.83 host=greenlight 
+INFO: [39fb8d1f-1d3b-4364-bfa5-b889900d6853] Support: niaz@uplinklearning.com is attempting to login. 
+INFO: [39fb8d1f-1d3b-4364-bfa5-b889900d6853] Support: niaz@uplinklearning.com has successfully logged in. 
+INFO: [39fb8d1f-1d3b-4364-bfa5-b889900d6853] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=284.46 view=0.00 db=10.72 location=http://198.211.109.173/b/nia-3zm-vrz host=greenlight 
+INFO: [fa4e62c6-5a44-4510-aa4a-eabc33896a06] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=31.02 view=24.52 db=1.04 host=greenlight 
+INFO: [dc2cb2b1-44d2-4f55-b64c-28cd9d1ed377] method=GET path=/b/signin format=html controller=SessionsController action=signin status=302 duration=12.99 view=0.00 db=3.63 location=http://198.211.109.173/b/nia-3zm-vrz host=greenlight 
+INFO: [61d7709a-1e6a-41d0-8498-6ec05a314183] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=308.71 view=46.09 db=27.13 host=greenlight 
+INFO: [35ccceaf-1add-4328-b4ca-fad15174c028] method=GET path=/b/u/logout format=html controller=SessionsController action=destroy status=302 duration=9.32 view=0.00 db=2.19 location=http://198.211.109.173/b/ host=greenlight 
+INFO: [1347e2c4-eacb-4b1e-97d5-a2f712f2050d] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=20.50 view=15.02 db=0.68 host=greenlight 
+INFO: [595e10c1-8239-46fd-b6ad-251183e9caeb] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=23.28 view=16.29 db=0.93 host=greenlight 
+INFO: [46585c30-43ff-4e50-bc14-e778654e4472] Support: niaz@uplinklearning.com is attempting to login. 
+INFO: [46585c30-43ff-4e50-bc14-e778654e4472] Support: niaz@uplinklearning.com has successfully logged in. 
+INFO: [46585c30-43ff-4e50-bc14-e778654e4472] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=245.22 view=0.00 db=2.68 location=http://198.211.109.173/b/nia-3zm-vrz host=greenlight 
+INFO: [9be175e7-43bc-45ad-951b-9c699f5de444] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=86.62 view=30.70 db=15.65 host=greenlight 
+INFO: [edffeaf6-1845-43b5-a044-f5679050d676] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=69.90 view=23.07 db=8.65 host=greenlight 
+INFO: [98591afd-d701-43fb-90e8-4eeee79207e6] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=57.96 view=20.37 db=7.53 host=greenlight 
+INFO: [b792b841-4d06-48b5-b0e5-7f5d7e9c1312] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=84.23 view=37.98 db=8.69 host=greenlight 
+INFO: [67c31316-7884-4793-9820-72245522a866] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=60.69 view=19.76 db=6.80 host=greenlight 
+INFO: [b684f2d2-7b79-4c20-b2ae-892cd378ce33] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=58.52 view=19.11 db=7.42 host=greenlight 
+INFO: [8e3f1c38-9542-4ab2-876d-0f4c88653c5e] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=64.97 view=21.03 db=7.22 host=greenlight 
+INFO: [7c3dd8d3-51ff-4975-9cf1-52cef7f84645] method=GET path=/b/u/logout format=html controller=SessionsController action=destroy status=302 duration=10.18 view=0.00 db=2.22 location=http://198.211.109.173/b/ host=greenlight 
+INFO: [7060276d-02fc-4db0-9012-9fd0e04e7750] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=25.39 view=19.38 db=0.84 host=greenlight 
+INFO: [1c05d957-a9f9-4418-8859-a5b37fb6e1f5] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=28.66 view=13.12 db=5.01 host=greenlight 
+INFO: [167a2583-bdc3-40c2-87c7-af6a877ee6c4] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=19.71 view=13.90 db=0.84 host=greenlight 
+INFO: [00915649-cd18-495e-b3df-c392d3174b6d] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=21.20 view=14.69 db=1.02 host=greenlight 
+INFO: [594044eb-72b1-4b14-8778-d70f6b8bf98e] Support: tahseen@uplinklearning.com is attempting to login. 
+INFO: [594044eb-72b1-4b14-8778-d70f6b8bf98e] Support: tahseen@uplinklearning.com has successfully logged in. 
+INFO: [594044eb-72b1-4b14-8778-d70f6b8bf98e] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=243.00 view=0.00 db=3.21 location=http://198.211.109.173/b/tah-q2h-7da host=greenlight 
+INFO: [51f2078b-ba9d-4fc4-a99e-f13df3cebbb0] method=GET path=/b/tah-q2h-7da format=html controller=RoomsController action=show status=200 duration=70.69 view=24.02 db=13.19 host=greenlight 
+INFO: [ae99c86e-d93a-4e3e-920c-e94d00288ad0] method=GET path=/b/admins format=html controller=AdminsController action=index status=200 duration=69.04 view=42.66 db=10.83 host=greenlight 
+INFO: [07ff3064-8163-4faa-93ad-d9ebe52b7d86] method=GET path=/b/admins/rooms format=html controller=AdminsController action=server_rooms status=200 duration=58.18 view=24.81 db=7.55 host=greenlight 
+INFO: [cf10d64b-876f-41af-8dc4-58b9e98bbb06] method=GET path=/b/admins/recordings format=html controller=AdminsController action=server_recordings status=200 duration=45.35 view=24.25 db=1.87 host=greenlight 
+INFO: [e9a00ad7-4f9c-4125-adad-7558271a3390] method=GET path=/b/admins/site_settings format=html controller=AdminsController action=site_settings status=200 duration=38.05 view=26.06 db=4.34 host=greenlight 
+INFO: [c8cec5b7-b833-4c88-affd-dccea99e1186] method=POST path=/b/admins/update_settings format=*/* controller=AdminsController action=update_settings status=200 duration=13.21 view=0.00 db=3.46 location=http://198.211.109.173/b/admins/site_settings host=greenlight 
+INFO: [36bccb3d-b9d9-4aeb-8362-faf1b0a9da08] method=GET path=/b/admins/site_settings format=html controller=AdminsController action=site_settings status=200 duration=33.82 view=24.84 db=1.90 host=greenlight 
+INFO: [dd922d82-1dd3-48a0-8af6-bc0bedd48d3a] method=GET path=/b/tah-q2h-7da format=html controller=RoomsController action=show status=200 duration=56.79 view=21.68 db=6.88 host=greenlight 
+INFO: [e592d81f-ca2c-4a4e-bdd3-8a904af21a63] method=GET path=/b/tah-q2h-7da format=html controller=RoomsController action=show status=200 duration=63.82 view=26.67 db=7.54 host=greenlight 
+INFO: [db733c91-b347-4030-9b70-8b2b187f5437] method=GET path=/b/tah-q2h-7da format=html controller=RoomsController action=show status=200 duration=58.58 view=20.64 db=8.43 host=greenlight 
+INFO: [143874c0-2478-47c5-8324-34ba792c0e0c] method=GET path=/b/tah-q2h-7da format=html controller=RoomsController action=show status=200 duration=69.25 view=23.48 db=14.19 host=greenlight 
+INFO: [8ecfc7fe-7d19-4fa2-82c5-fc85f0cadb19] method=GET path=/b/admins format=html controller=AdminsController action=index status=200 duration=49.28 view=28.93 db=7.47 host=greenlight 
+INFO: [5159f0ae-b2e9-4a3b-acec-a0d6fcba73e8] method=GET path=/b/tah-q2h-7da format=html controller=RoomsController action=show status=200 duration=66.50 view=21.30 db=13.17 host=greenlight 
+INFO: [9de420ec-b6b8-4aa1-ba0b-1b9ddc195dec] Support: tahseen@uplinklearning.com is starting room tah-q2h-7da 
+INFO: [9de420ec-b6b8-4aa1-ba0b-1b9ddc195dec] [ActiveJob] Enqueued NotifyUserWaitingJob (Job ID: fb269dd3-54e9-4cb3-a86f-6f3f7ae360f8) to Async(default) at 2020-05-06 22:24:03 UTC with arguments: #<GlobalID:0x000055863d32c3f0 @uri=#<URI::GID gid://greenlight/Room/2>> 
+INFO: [9de420ec-b6b8-4aa1-ba0b-1b9ddc195dec] method=POST path=/b/tah-q2h-7da/start format=html controller=RoomsController action=start status=302 duration=1371.57 view=0.00 db=38.03 location=http://198.211.109.173/bigbluebutton/api/join host=greenlight 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [fb269dd3-54e9-4cb3-a86f-6f3f7ae360f8] Performing NotifyUserWaitingJob (Job ID: fb269dd3-54e9-4cb3-a86f-6f3f7ae360f8) from Async(default) with arguments: #<GlobalID:0x000055863d2fb5e8 @uri=#<URI::GID gid://greenlight/Room/2>> 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [fb269dd3-54e9-4cb3-a86f-6f3f7ae360f8] Performed NotifyUserWaitingJob (Job ID: fb269dd3-54e9-4cb3-a86f-6f3f7ae360f8) from Async(default) in 7.32ms 
+INFO: [15ed9a84-89ef-437c-baa8-2050fbe3e884] Support: tahseen@uplinklearning.com has left room tah-q2h-7da 
+INFO: [15ed9a84-89ef-437c-baa8-2050fbe3e884] method=GET path=/b/tah-q2h-7da/logout format=html controller=RoomsController action=logout status=302 duration=11.24 view=0.00 db=2.46 location=http://198.211.109.173/b/tah-q2h-7da host=greenlight 
+INFO: [caa4beed-3a10-4d70-a3cf-fe746a87c2c9] method=GET path=/b/tah-q2h-7da format=html controller=RoomsController action=show status=200 duration=105.54 view=33.56 db=10.87 host=greenlight 
+INFO: [12f27205-ad36-4084-ba49-84beaa923543] method=GET path=/b/u/logout format=html controller=SessionsController action=destroy status=302 duration=8.87 view=0.00 db=1.57 location=http://198.211.109.173/b/ host=greenlight 
+INFO: [69b84fb3-293d-4e8b-8755-db767819f82e] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=24.07 view=18.60 db=0.73 host=greenlight 
+INFO: [15076af5-8e16-4109-87c8-d9b960a359bb] method=GET path=/b/signup format=html controller=SessionsController action=new status=200 duration=23.95 view=16.76 db=0.72 host=greenlight 
+ERROR: [6b255037-31fc-4d8c-b580-83e3dcf822bf] Support: demo@uplinklearning.com creation failed: User params are not valid. 
+INFO: [6b255037-31fc-4d8c-b580-83e3dcf822bf] method=POST path=/b/signup format=html controller=UsersController action=create status=200 duration=251.11 view=17.69 db=2.63 host=greenlight 
+INFO: [3b9cb729-0904-417a-ab5f-fd2a0b92a914] Support: demo@uplinklearning.com user has been created. 
+INFO: [3b9cb729-0904-417a-ab5f-fd2a0b92a914] Support: demo@uplinklearning.com has successfully logged in. 
+INFO: [3b9cb729-0904-417a-ab5f-fd2a0b92a914] method=POST path=/b/signup format=html controller=UsersController action=create status=302 duration=368.82 view=0.00 db=62.45 location=http://198.211.109.173/b/dem-ynh-jcp host=greenlight 
+INFO: [9db7dbef-6a7f-481d-82c8-2c4f62d3d571] method=GET path=/b/dem-ynh-jcp format=html controller=RoomsController action=show status=200 duration=68.12 view=25.23 db=12.14 host=greenlight 
+INFO: [505a78da-d7b5-4add-8f3c-f4c2d2b47578] method=GET path=/b/u/gl-nbcfuidumgje/edit format=html controller=UsersController action=edit status=200 duration=83.65 view=71.79 db=3.04 host=greenlight 
+INFO: [cb36dc89-27fe-4d4d-a661-1ddbd1168846] method=GET path=/b/dem-ynh-jcp format=html controller=RoomsController action=show status=200 duration=125.69 view=65.32 db=13.33 host=greenlight 
+INFO: [360ec147-1271-439f-a0ba-74eb3e70791f] method=GET path=/b/u/logout format=html controller=SessionsController action=destroy status=302 duration=8.89 view=0.00 db=1.81 location=http://198.211.109.173/b/ host=greenlight 
+INFO: [7390c915-6faf-4773-8292-1df0680a93e5] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=18.95 view=14.38 db=0.55 host=greenlight 
+INFO: [9e8d9d2e-78a0-41f3-93f2-0f31dcfb70a3] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=33.12 view=26.58 db=0.83 host=greenlight 
+INFO: [9956d0cf-224a-4a33-ab37-3013da7b389e] Support: tahseen@uplinklearning.com is attempting to login. 
+INFO: [9956d0cf-224a-4a33-ab37-3013da7b389e] Support: tahseen@uplinklearning.com has successfully logged in. 
+INFO: [9956d0cf-224a-4a33-ab37-3013da7b389e] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=245.05 view=0.00 db=2.75 location=http://198.211.109.173/b/tah-q2h-7da host=greenlight 
+INFO: [501d1e7e-29b8-4a46-a653-17fc5cad6b30] method=GET path=/b/tah-q2h-7da format=html controller=RoomsController action=show status=200 duration=72.00 view=29.33 db=8.34 host=greenlight 
+INFO: [c6980700-5b47-4bca-8575-8eff4f1c7293] method=GET path=/b/admins format=html controller=AdminsController action=index status=200 duration=46.29 view=24.82 db=8.20 host=greenlight 
+INFO: [06b44c06-f0cf-42ac-a3eb-466769351f80] method=GET path=/b/admins/site_settings format=html controller=AdminsController action=site_settings status=200 duration=31.03 view=20.11 db=2.04 host=greenlight 
+INFO: [00965516-6524-4456-afad-a198877e573e] method=POST path=/b/admins/registration_method format=html controller=AdminsController action=registration_method status=302 duration=44.20 view=0.00 db=33.93 location=http://198.211.109.173/b/admins/site_settings host=greenlight 
+INFO: [e292b394-2e50-4e2b-a5d7-dfba4778622e] method=GET path=/b/admins/site_settings format=html controller=AdminsController action=site_settings status=200 duration=33.03 view=23.51 db=1.95 host=greenlight 
+INFO: [cd0710c6-3581-4f24-bdf6-13ef7bbf6779] method=GET path=/b/u/logout format=html controller=SessionsController action=destroy status=302 duration=9.83 view=0.00 db=2.00 location=http://198.211.109.173/b/ host=greenlight 
+INFO: [b4af9685-306f-48b7-9599-8aa4b64df403] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=19.13 view=13.61 db=0.81 host=greenlight 
+INFO: [915b9414-51c3-4d94-b8b3-ebdaedd5bb94] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=106.12 view=49.08 db=11.22 host=greenlight 
+INFO: [b9c8cf1a-24c3-4607-b224-a7644603fe90] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=97.02 view=50.48 db=11.14 host=greenlight 
+INFO: [f4c8b3f3-b1c0-4451-8571-d56f8bfd8164] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=28.67 view=13.26 db=5.18 host=greenlight 
+INFO: [6a001510-4082-443f-8112-94e0f2864e57] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=442.02 view=370.24 db=18.66 host=greenlight 
+INFO: [136bed4c-0fb9-47af-88fa-85470d3cf650] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=22.92 view=15.67 db=0.82 host=greenlight 
+INFO: [72bd7b2f-8260-4ddd-aa8f-e04ee2566f98] Support: niaz@uplinklearning.com is attempting to login. 
+INFO: [72bd7b2f-8260-4ddd-aa8f-e04ee2566f98] Support: niaz@uplinklearning.com has successfully logged in. 
+INFO: [72bd7b2f-8260-4ddd-aa8f-e04ee2566f98] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=294.62 view=0.00 db=21.59 location=http://demo.uplinklearning.com/b/nia-3zm-vrz host=greenlight 
+INFO: [df48131d-31c0-4114-bbd1-098bb9cb9645] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=28.90 view=21.98 db=1.06 host=greenlight 
+INFO: [8467dc5c-eb8f-44f6-bc90-2ed69a46e6fc] method=GET path=/b/signin format=html controller=SessionsController action=signin status=302 duration=13.28 view=0.00 db=3.57 location=http://demo.uplinklearning.com/b/nia-3zm-vrz host=greenlight 
+ERROR: [f9b92377-09c1-4f87-b642-17fe3df1de57] BigBlueButtonException: Impossible to convert XML to hash. Error: Missing end tag for 'hr' (got "body")
+Line: 6
+Position: 169
+Last 80 unconsumed characters:
+ 
+INFO: [f9b92377-09c1-4f87-b642-17fe3df1de57] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=29.07 view=14.42 db=2.34 host=greenlight 
+ERROR: [ce8e22a0-9b29-4554-bf4f-0fd0d97acd49] BigBlueButtonException: Impossible to convert XML to hash. Error: Missing end tag for 'hr' (got "body")
+Line: 6
+Position: 169
+Last 80 unconsumed characters:
+ 
+INFO: [ce8e22a0-9b29-4554-bf4f-0fd0d97acd49] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=129.55 view=39.23 db=18.27 host=greenlight 
+ERROR: [990e6120-6a54-48a4-8845-1e2691052096] BigBlueButtonException: Impossible to convert XML to hash. Error: Missing end tag for 'hr' (got "body")
+Line: 6
+Position: 169
+Last 80 unconsumed characters:
+ 
+INFO: [990e6120-6a54-48a4-8845-1e2691052096] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=25.52 view=11.98 db=2.49 host=greenlight 
+INFO: [96364bc4-3599-4b91-93ae-45d9d763f501] method=GET path=/b/u/logout format=html controller=SessionsController action=destroy status=302 duration=8.65 view=0.00 db=1.68 location=http://demo.uplinklearning.com/b/ host=greenlight 
+INFO: [8dae19f4-e090-4e57-8c11-197f8279a555] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=29.09 view=14.48 db=0.81 host=greenlight 
+INFO: [d9034d5a-6567-4a16-bb5f-a671b0aed203] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=20.99 view=14.25 db=0.88 host=greenlight 
+INFO: [a1aa9926-1122-431f-9ea2-8a3e3c7e8830] Support: niaz@uplinklearning.com is attempting to login. 
+INFO: [a1aa9926-1122-431f-9ea2-8a3e3c7e8830] Support: niaz@uplinklearning.com has successfully logged in. 
+INFO: [a1aa9926-1122-431f-9ea2-8a3e3c7e8830] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=236.30 view=0.00 db=2.55 location=http://demo.uplinklearning.com/b/nia-3zm-vrz host=greenlight 
+ERROR: [c5ddef7d-caeb-4e68-ba14-d4bbff0a84a0] BigBlueButtonException: Impossible to convert XML to hash. Error: Missing end tag for 'hr' (got "body")
+Line: 6
+Position: 169
+Last 80 unconsumed characters:
+ 
+INFO: [c5ddef7d-caeb-4e68-ba14-d4bbff0a84a0] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=28.45 view=13.72 db=3.03 host=greenlight 
+INFO: [89b71507-b559-4e62-a4e9-596798b9f436] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=25.75 view=16.31 db=2.26 host=greenlight 
+INFO: [3a033a99-6ecb-441f-84d0-ea2fc99555e0] method=GET path=/b/u/logout format=html controller=SessionsController action=destroy status=302 duration=8.83 view=0.00 db=1.80 location=http://demo.uplinklearning.com/b/ host=greenlight 
+INFO: [a51bfa3d-bafc-4bfa-8114-3d38bbf20e8f] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=26.86 view=21.02 db=0.98 host=greenlight 
+INFO: [9b648071-1028-45c8-ab84-9c40071ad50a] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=19.56 view=13.48 db=0.80 host=greenlight 
+INFO: [498d15df-714c-492e-9418-5d8e6e9dff4f] Support: niaz@uplinklearning.com is attempting to login. 
+INFO: [498d15df-714c-492e-9418-5d8e6e9dff4f] Support: niaz@uplinklearning.com has successfully logged in. 
+INFO: [498d15df-714c-492e-9418-5d8e6e9dff4f] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=235.72 view=0.00 db=2.85 location=http://demo.uplinklearning.com/b/nia-3zm-vrz host=greenlight 
+ERROR: [389d0cf3-359f-41ce-b3bf-d2418f7064c3] BigBlueButtonException: Impossible to convert XML to hash. Error: Missing end tag for 'hr' (got "body")
+Line: 6
+Position: 169
+Last 80 unconsumed characters:
+ 
+INFO: [389d0cf3-359f-41ce-b3bf-d2418f7064c3] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=26.45 view=12.76 db=2.35 host=greenlight 
+INFO: [d88006a7-625e-40d6-b323-e5438803c1a5] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=313.05 view=268.54 db=10.24 host=greenlight 
+INFO: [a4bccc2f-d553-4bde-a67d-fa71325049f0] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=28.77 view=21.76 db=0.88 host=greenlight 
+INFO: [717fde6d-f305-460b-995a-7bbecb77bf6d] Support: niaz@uplinklearning.com is attempting to login. 
+INFO: [717fde6d-f305-460b-995a-7bbecb77bf6d] Support: niaz@uplinklearning.com has successfully logged in. 
+INFO: [717fde6d-f305-460b-995a-7bbecb77bf6d] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=277.95 view=0.00 db=9.96 location=http://demo.uplinklearning.com/b/nia-3zm-vrz host=greenlight 
+INFO: [973a587f-48d9-442a-9ea7-412a48c2d125] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=255.00 view=34.40 db=13.75 host=greenlight 
+INFO: [1fc826e7-14fa-44de-b199-95b4d5e1661f] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=36.77 view=18.90 db=5.63 host=greenlight 
+INFO: [31ad2a85-88b5-4354-82d3-742f1536ce13] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=24.59 view=15.14 db=1.88 host=greenlight 
+INFO: [b3b309bc-38f9-44a6-a916-36feb11f8709] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=262.52 view=19.03 db=9.12 host=greenlight 
+INFO: [6eba2aa5-1682-440e-8b2b-1d563595bd05] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=66.33 view=23.28 db=7.55 host=greenlight 
+INFO: [5b466e7f-2f21-4326-9abb-56ecf0ba43cc] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=57.93 view=19.18 db=6.76 host=greenlight 
+INFO: [8dc86912-9a3a-4785-976b-9bdd41ce5478] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=20.25 view=14.81 db=0.69 host=greenlight 
+INFO: [7e028ffa-b881-4ad0-91ae-feff3152de33] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=27.40 view=12.85 db=2.19 host=greenlight 
+INFO: [28c3bad5-5563-4c2d-9280-c4cfdc659913] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=31.67 view=13.23 db=5.64 host=greenlight 
+INFO: [26ad684c-2471-4ef5-9865-e22f0f61f95a] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=20.09 view=13.86 db=1.11 host=greenlight 
+INFO: [3ec8edfb-9ef3-48ad-bc6d-f40be28e0c2a] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=24.14 view=18.42 db=0.89 host=greenlight 
+INFO: [16597c2c-e617-4f89-a423-d18c2c60c085] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=19.98 view=14.13 db=0.95 host=greenlight 
+INFO: [c1f2ed00-240d-4cb7-aed6-cc4d645c8d02] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=19.57 view=14.02 db=0.73 host=greenlight 
+INFO: [184a1b6d-3f47-43ee-8a28-b348b3bb8a0e] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=32.39 view=17.19 db=4.90 host=greenlight 
+INFO: [0d1d96b0-40e9-4670-bc67-370d0618f366] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=20.15 view=14.18 db=1.18 host=greenlight 
+INFO: [7625e3ab-2125-47f7-82c0-6c109276892c] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=18.59 view=12.99 db=0.82 host=greenlight 
+INFO: [62341f9a-63c8-455a-8e5d-5afa35a65bd0] method=GET path=/b/ format=*/* controller=MainController action=index status=200 duration=46.62 view=36.89 db=0.72 host=greenlight 
+INFO: [12ca1169-b239-4021-8b46-3571417f16ad] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=29.12 view=13.69 db=4.81 host=greenlight 
+INFO: [8e985b3e-d684-4efb-b6ad-ba0c5fa77e86] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=19.62 view=13.73 db=0.79 host=greenlight 
+INFO: [c063e27b-aa32-4107-b47f-8dc50f370be5] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=103.44 view=56.51 db=10.89 host=greenlight 
+INFO: [17107df1-9481-4eaf-9273-ad27fa2bc09b] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=24.20 view=17.29 db=0.83 host=greenlight 
+INFO: [9fccdf1c-1a0b-485f-b244-d2970758baee] Support: niaz@uplinklearning.com is attempting to login. 
+INFO: [9fccdf1c-1a0b-485f-b244-d2970758baee] Support: niaz@uplinklearning.com has successfully logged in. 
+INFO: [9fccdf1c-1a0b-485f-b244-d2970758baee] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=273.97 view=0.00 db=8.27 location=http://demo.uplinklearning.com/b/ host=greenlight 
+INFO: [0f4b3df5-df1f-4f05-9cb7-87b26425e427] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=33.71 view=12.69 db=4.30 host=greenlight 
+ERROR: [1e56024a-8991-4185-976e-cd0442626eb3] BigBlueButtonException: Impossible to convert XML to hash. Error: Missing end tag for 'hr' (got "body")
+Line: 6
+Position: 185
+Last 80 unconsumed characters:
+ 
+INFO: [1e56024a-8991-4185-976e-cd0442626eb3] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=55.02 view=15.33 db=2.39 host=greenlight 
+ERROR: [c9fd273f-75ff-42a1-acc7-8ae345095c30] BigBlueButtonException: Impossible to convert XML to hash. Error: Missing end tag for 'hr' (got "body")
+Line: 6
+Position: 185
+Last 80 unconsumed characters:
+ 
+INFO: [c9fd273f-75ff-42a1-acc7-8ae345095c30] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=185.32 view=77.55 db=20.45 host=greenlight 
+INFO: [32973581-fd60-4892-9615-b0e5172ed094] method=GET path=/b/u/logout format=html controller=SessionsController action=destroy status=302 duration=12.60 view=0.00 db=2.32 location=https://demo.uplinklearning.com/b/ host=greenlight 
+INFO: [9d152ae0-2120-4db7-a3f6-4c64ea857c51] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=55.96 view=47.93 db=0.74 host=greenlight 
+INFO: [dd7f651d-238c-44d0-8ef6-3fc4d142b96c] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=23.63 view=16.87 db=0.80 host=greenlight 
+INFO: [2beb600d-ba7e-46b2-a00f-81de72c77b27] Support: niaz@uplinklearning.com is attempting to login. 
+INFO: [2beb600d-ba7e-46b2-a00f-81de72c77b27] Support: niaz@uplinklearning.com has successfully logged in. 
+INFO: [2beb600d-ba7e-46b2-a00f-81de72c77b27] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=237.75 view=0.00 db=2.70 location=https://demo.uplinklearning.com/b/nia-3zm-vrz host=greenlight 
+ERROR: [aa6e7968-347a-4962-bf8b-03c95e02d67c] BigBlueButtonException: Impossible to convert XML to hash. Error: Missing end tag for 'hr' (got "body")
+Line: 6
+Position: 185
+Last 80 unconsumed characters:
+ 
+INFO: [aa6e7968-347a-4962-bf8b-03c95e02d67c] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=28.34 view=13.48 db=2.43 host=greenlight 
+INFO: [a35e7d29-4048-404e-85e5-6cee9d31008a] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=676.73 view=295.63 db=31.08 host=greenlight 
+INFO: [e26453a1-f6ed-4def-8780-be488304b213] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=233.43 view=75.25 db=27.46 host=greenlight 
+INFO: [e9f417af-8d97-4c4b-8c03-10b4c4976c22] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=83.17 view=31.47 db=8.01 host=greenlight 
+INFO: [6c78d711-a185-4bbe-9905-a9c4b8252032] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=77.08 view=26.90 db=7.80 host=greenlight 
+INFO: [2f6fe16d-1b96-4e9d-bb64-80778b236361] method=GET path=/b/u/logout format=html controller=SessionsController action=destroy status=302 duration=10.08 view=0.00 db=2.25 location=https://demo.uplinklearning.com/b/ host=greenlight 
+INFO: [90ad61c2-86d4-4e8c-96b6-806dae88c8f4] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=23.26 view=16.28 db=1.03 host=greenlight 
+INFO: [663a08cb-a73f-403f-b61b-e1a4cc29c155] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=23.74 view=16.45 db=1.06 host=greenlight 
+INFO: [88c6a913-255e-49aa-83d8-56dd1abfa9d4] Support: niaz@uplinklearning.com is attempting to login. 
+INFO: [88c6a913-255e-49aa-83d8-56dd1abfa9d4] Support: niaz@uplinklearning.com has successfully logged in. 
+INFO: [88c6a913-255e-49aa-83d8-56dd1abfa9d4] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=236.39 view=0.00 db=2.32 location=https://demo.uplinklearning.com/b/nia-3zm-vrz host=greenlight 
+INFO: [1627cee0-a751-4a07-aea9-8fdd2bd3d1cd] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=80.96 view=27.90 db=8.13 host=greenlight 
+INFO: [3a37fca3-291c-49c5-beae-4e5adb6cf8d2] method=GET path=/b/admins format=html controller=AdminsController action=index status=200 duration=62.59 view=40.18 db=7.20 host=greenlight 
+INFO: [af64ed8b-ddd8-4f44-9d75-2cd971a8ee70] method=GET path=/b/admins/site_settings format=html controller=AdminsController action=site_settings status=200 duration=33.46 view=24.00 db=1.54 host=greenlight 
+INFO: [f866a27c-66b8-44d9-a6c2-f2020349a5e0] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=72.70 view=26.69 db=7.29 host=greenlight 
+INFO: [5d8ceb4e-c1aa-4d78-b5ea-4d5ba55dcab8] method=GET path=/b/admins format=html controller=AdminsController action=index status=200 duration=73.09 view=39.11 db=15.56 host=greenlight 
+INFO: [a454f930-5f23-4a50-9d21-01117212fb5c] method=GET path=/b/admins/site_settings format=html controller=AdminsController action=site_settings status=200 duration=43.26 view=30.99 db=2.35 host=greenlight 
+INFO: [135713fb-99db-4a44-87d4-509bd0058622] method=POST path=/b/admins/update_settings format=*/* controller=AdminsController action=update_settings status=200 duration=15.37 view=0.00 db=4.91 location=https://demo.uplinklearning.com/b/admins/site_settings host=greenlight 
+INFO: [1e5dcfec-713e-4b11-bb60-776f9f3b8778] method=GET path=/b/admins/site_settings format=html controller=AdminsController action=site_settings status=200 duration=32.48 view=18.82 db=2.00 host=greenlight 
+INFO: [449d220c-0a7e-4202-b889-a02ddc7f484b] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=267.47 view=19.19 db=8.42 host=greenlight 
+INFO: [9f90c614-b72e-4335-96e9-113ade88f1b2] method=GET path=/b/u/gl-ykbjihcihjfw/edit format=html controller=UsersController action=edit status=200 duration=71.56 view=59.14 db=3.77 host=greenlight 
+INFO: [bd505317-aadd-4c03-8144-a360442b409d] method=GET path=/b/admins format=html controller=AdminsController action=index status=200 duration=50.64 view=31.18 db=7.00 host=greenlight 
+INFO: [219ccb97-43e0-490d-b5b7-1fce339c9b29] method=GET path=/b/admins/site_settings format=html controller=AdminsController action=site_settings status=200 duration=27.03 view=18.20 db=1.49 host=greenlight 
+INFO: [25531af2-f3d9-4d9e-b2bb-1e457279b45d] method=POST path=/b/admins/update_settings format=*/* controller=AdminsController action=update_settings status=200 duration=13.33 view=0.00 db=4.43 location=https://demo.uplinklearning.com/b/admins/site_settings host=greenlight 
+INFO: [8699b9bb-896b-4b0e-9b73-3b8bf1701ce3] method=GET path=/b/admins/site_settings format=html controller=AdminsController action=site_settings status=200 duration=28.22 view=19.80 db=1.50 host=greenlight 
+INFO: [18e0e588-886f-4a5e-bbd5-01accfb2e406] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=25.15 view=19.52 db=0.71 host=greenlight 
+INFO: [0a20772a-8ab8-4a46-8c2f-e9fd09bd737d] method=POST path=/b/admins/update_settings format=*/* controller=AdminsController action=update_settings status=200 duration=21.95 view=0.00 db=12.87 location=https://demo.uplinklearning.com/b/admins/site_settings host=greenlight 
+INFO: [e9fa3b5d-6ef0-4cf6-b90e-701e8c78b614] method=GET path=/b/admins/site_settings format=html controller=AdminsController action=site_settings status=200 duration=26.29 view=18.03 db=1.46 host=greenlight 
+INFO: [94a2a95d-7132-49a8-87b7-a3a24e79ce52] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=105.79 view=24.66 db=7.27 host=greenlight 
+INFO: [99b8e48d-bf53-41af-a2b0-a490ed98eed4] method=GET path=/b/admins format=html controller=AdminsController action=index status=200 duration=43.21 view=24.47 db=6.71 host=greenlight 
+INFO: [93ff1bf6-0fcc-4935-8da0-372bce5a383e] method=GET path=/b/admins/rooms format=html controller=AdminsController action=server_rooms status=200 duration=103.65 view=32.92 db=6.35 host=greenlight 
+INFO: [5319a8ec-5555-4e7e-9604-9339d5e9450f] method=GET path=/b/admins/site_settings format=html controller=AdminsController action=site_settings status=200 duration=25.94 view=17.26 db=1.44 host=greenlight 
+INFO: [cf3c7ca5-70d9-44fc-b61d-802aef2e4606] method=POST path=/b/admins/update_settings format=*/* controller=AdminsController action=update_settings status=200 duration=12.88 view=0.00 db=4.10 location=https://demo.uplinklearning.com/b/admins/site_settings host=greenlight 
+INFO: [0e06f412-6ec2-4527-8386-b77f285429b3] method=GET path=/b/admins/site_settings format=html controller=AdminsController action=site_settings status=200 duration=26.85 view=18.35 db=1.51 host=greenlight 
+INFO: [ca5872e8-0fcd-49df-8489-68972b00f530] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=71.25 view=20.96 db=6.93 host=greenlight 
+INFO: [c8854c49-0d65-4bac-bfb1-7af17a802410] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=114.10 view=61.97 db=7.45 host=greenlight 
+INFO: [947a1404-e102-4d41-b491-0ca229ede019] method=GET path=/b/u/logout format=html controller=SessionsController action=destroy status=302 duration=15.32 view=0.00 db=1.64 location=https://demo.uplinklearning.com/b/ host=greenlight 
+INFO: [5419109a-dd09-4fe1-8f2a-7abcd18252f3] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=39.09 view=29.54 db=0.93 host=greenlight 
+INFO: [eed62405-7e3d-43a2-a085-db31f3785d0f] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=87.92 view=42.97 db=10.06 host=greenlight 
+INFO: [0a335989-c35a-4eba-ae03-33ec8b8cdd46] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=85.18 view=41.55 db=10.07 host=greenlight 
+INFO: [4268f3c6-14d7-4be5-8d1d-44337c2977e1] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=87.75 view=41.89 db=9.89 host=greenlight 
+INFO: [b372bfad-a727-40be-8a21-538859b6395f] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=19.30 view=13.27 db=0.88 host=greenlight 
+INFO: [f6cbf2af-4127-457b-817f-0f8cb55df58a] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=18.64 view=12.98 db=0.90 host=greenlight 
+INFO: [7bfbe18b-6c4a-4a97-a337-087f578b2768] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=30.56 view=23.91 db=0.82 host=greenlight 
+INFO: [e69d0939-4bfe-4346-96d5-e6d9a925b07e] Support: niaz@uplinklearning.com is attempting to login. 
+INFO: [e69d0939-4bfe-4346-96d5-e6d9a925b07e] Support: niaz@uplinklearning.com has successfully logged in. 
+INFO: [e69d0939-4bfe-4346-96d5-e6d9a925b07e] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=280.09 view=0.00 db=10.24 location=https://demo.uplinklearning.com/b/nia-3zm-vrz host=greenlight 
+INFO: [632f6f77-8cb5-4ac6-aa28-f30ef9e056ad] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=108.35 view=31.69 db=11.73 host=greenlight 
+INFO: [6809bd03-7c08-453f-9653-63da36cb2367] method=GET path=/b/u/gl-ykbjihcihjfw/edit format=html controller=UsersController action=edit status=200 duration=77.63 view=64.58 db=3.82 host=greenlight 
+INFO: [d68113ef-49e7-491f-aafe-614b0d300b32] method=GET path=/b/ format=*/* controller=MainController action=index status=200 duration=66.89 view=40.34 db=5.74 host=greenlight 
+INFO: [502bf04c-081a-4245-8a01-09324935ade7] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=27.78 view=14.11 db=4.25 host=greenlight 
+INFO: [a85449a8-c08b-46a9-86c8-91a80f85435a] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=22.21 view=16.35 db=0.98 host=greenlight 
+INFO: [91e4605d-1aff-403b-8e2f-8ba2def15dd1] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=28.17 view=13.74 db=4.41 host=greenlight 
+INFO: [2b71a542-5fc7-46b8-af03-c3c63fac26aa] method=GET path=/b/ format=*/* controller=MainController action=index status=200 duration=25.50 view=12.50 db=4.05 host=greenlight 
+INFO: [7100634f-0750-4c76-becd-3524fbdd0329] method=GET path=/b/ format=*/* controller=MainController action=index status=200 duration=25.95 view=13.02 db=4.05 host=greenlight 
+INFO: [fe3030f0-bc42-42b3-9baf-f2117ca69402] method=GET path=/b/ format=*/* controller=MainController action=index status=200 duration=21.74 view=12.69 db=0.76 host=greenlight 
+INFO: [2f1c9ce0-e6f4-4d91-8e41-506363deceaf] method=GET path=/b/ format=*/* controller=MainController action=index status=200 duration=29.02 view=13.22 db=4.98 host=greenlight 
+INFO: [e9124b61-c5fb-457f-bf7b-6bb576d9adf9] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=25.72 view=12.37 db=4.13 host=greenlight 
+INFO: [3b016def-5733-48b1-85a5-38e4dba17f38] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=33.21 view=17.46 db=5.04 host=greenlight 
+INFO: [ea9200c5-d599-4438-9625-7dd17b93a967] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=20.54 view=14.22 db=0.89 host=greenlight 
+INFO: [f1fff65c-217e-4f6e-a597-673f87de5947] Support: tahseen@uplinklearning.com is attempting to login. 
+INFO: [f1fff65c-217e-4f6e-a597-673f87de5947] Support: tahseen@uplinklearning.com has successfully logged in. 
+INFO: [f1fff65c-217e-4f6e-a597-673f87de5947] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=237.52 view=0.00 db=3.06 location=https://demo.uplinklearning.com/b/tah-q2h-7da host=greenlight 
+INFO: [2f1d6d66-9ba0-401a-80e7-c14874c9575e] method=GET path=/b/tah-q2h-7da format=html controller=RoomsController action=show status=200 duration=208.41 view=33.99 db=11.93 host=greenlight 
+INFO: [83e4a039-9989-43fd-9c13-85583f38d324] Support: tahseen@uplinklearning.com is starting room tah-q2h-7da 
+INFO: [83e4a039-9989-43fd-9c13-85583f38d324] [ActiveJob] Enqueued NotifyUserWaitingJob (Job ID: b8a38cde-7639-4916-a971-8437bf3b1c0d) to Async(default) at 2020-05-07 15:10:36 UTC with arguments: #<GlobalID:0x000055e20f9ec568 @uri=#<URI::GID gid://greenlight/Room/2>> 
+INFO: [83e4a039-9989-43fd-9c13-85583f38d324] method=POST path=/b/tah-q2h-7da/start format=html controller=RoomsController action=start status=302 duration=1271.63 view=0.00 db=5.37 location=https://demo.uplinklearning.com/bigbluebutton/api/join host=greenlight 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [b8a38cde-7639-4916-a971-8437bf3b1c0d] Performing NotifyUserWaitingJob (Job ID: b8a38cde-7639-4916-a971-8437bf3b1c0d) from Async(default) with arguments: #<GlobalID:0x000055e20f9b1288 @uri=#<URI::GID gid://greenlight/Room/2>> 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [b8a38cde-7639-4916-a971-8437bf3b1c0d] Performed NotifyUserWaitingJob (Job ID: b8a38cde-7639-4916-a971-8437bf3b1c0d) from Async(default) in 8.93ms 
+INFO: [d36eef3a-5a9e-4488-b4ac-3257c619b14d] Support: tahseen@uplinklearning.com has left room tah-q2h-7da 
+INFO: [d36eef3a-5a9e-4488-b4ac-3257c619b14d] method=GET path=/b/tah-q2h-7da/logout format=html controller=RoomsController action=logout status=302 duration=11.24 view=0.00 db=2.31 location=https://demo.uplinklearning.com/b/tah-q2h-7da host=greenlight 
+INFO: [68964c28-82a5-4975-b7fc-fcd0c9c58df0] method=GET path=/b/tah-q2h-7da format=html controller=RoomsController action=show status=200 duration=120.66 view=39.38 db=9.00 host=greenlight 
+INFO: [4f2d1672-fe74-4842-9e6f-e9b105d0d742] Support: tahseen@uplinklearning.com is joining room tah-q2h-7da 
+INFO: [4f2d1672-fe74-4842-9e6f-e9b105d0d742] method=POST path=/b/tah-q2h-7da format=html controller=RoomsController action=join status=302 duration=68.27 view=0.00 db=3.63 location=https://demo.uplinklearning.com/bigbluebutton/api/join host=greenlight 
+INFO: [ea45c044-55c9-44ff-9a47-3e1b32735eee] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=27.72 view=13.27 db=4.77 host=greenlight 
+INFO: [44b216ba-4057-4176-912a-14d5f7a39425] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=18.68 view=12.85 db=0.89 host=greenlight 
+INFO: [0bb5c003-4681-4268-89c0-900d9686516b] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=22.30 view=15.99 db=0.87 host=greenlight 
+INFO: [fbe50aca-cfb4-4950-9893-67284e36d651] Support: niaz@uplinklearning.com is attempting to login. 
+INFO: [fbe50aca-cfb4-4950-9893-67284e36d651] Support: niaz@uplinklearning.com has successfully logged in. 
+INFO: [fbe50aca-cfb4-4950-9893-67284e36d651] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=240.78 view=0.00 db=2.81 location=https://demo.uplinklearning.com/b/nia-3zm-vrz host=greenlight 
+INFO: [35c73e5f-d0a1-434f-9d19-878b61a31249] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=280.74 view=19.65 db=8.61 host=greenlight 
+INFO: [6eb24814-4b7c-4c1f-aaba-c24e7e174e8e] Support: niaz@uplinklearning.com is starting room nia-3zm-vrz 
+INFO: [6eb24814-4b7c-4c1f-aaba-c24e7e174e8e] [ActiveJob] Enqueued NotifyUserWaitingJob (Job ID: 63b415fd-2792-4f57-8a33-ed7eb35e5098) to Async(default) at 2020-05-07 16:30:52 UTC with arguments: #<GlobalID:0x000055e21174ee30 @uri=#<URI::GID gid://greenlight/Room/1>> 
+INFO: [6eb24814-4b7c-4c1f-aaba-c24e7e174e8e] method=POST path=/b/nia-3zm-vrz/start format=html controller=RoomsController action=start status=302 duration=1288.23 view=0.00 db=35.31 location=https://demo.uplinklearning.com/bigbluebutton/api/join host=greenlight 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [63b415fd-2792-4f57-8a33-ed7eb35e5098] Performing NotifyUserWaitingJob (Job ID: 63b415fd-2792-4f57-8a33-ed7eb35e5098) from Async(default) with arguments: #<GlobalID:0x000055e21173d680 @uri=#<URI::GID gid://greenlight/Room/1>> 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [63b415fd-2792-4f57-8a33-ed7eb35e5098] Performed NotifyUserWaitingJob (Job ID: 63b415fd-2792-4f57-8a33-ed7eb35e5098) from Async(default) in 0.14ms 
+INFO: [78698bbe-3b1d-414b-b65c-a012fd9be3ab] method=GET path=/b/ format=*/* controller=MainController action=index status=200 duration=26.35 view=13.28 db=4.11 host=greenlight 
+INFO: [72ebd9e7-6681-48cd-9b78-778a0491bf1f] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=29.00 view=15.06 db=4.32 host=greenlight 
+INFO: [9d5fc2f7-9e15-4a95-907f-35094fa1cb77] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=26.70 view=12.68 db=4.37 host=greenlight 
+INFO: [2a4dd44c-0511-447a-b106-3b5ca3d6e2b6] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=19.78 view=14.27 db=0.76 host=greenlight 
+INFO: [57c2a196-fb21-488c-91f0-e9d432a40ca0] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=23.60 view=18.08 db=0.80 host=greenlight 
+INFO: [012bbdb8-21ce-4bb1-b6e2-5a5d89482b8d] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=20.06 view=14.23 db=0.73 host=greenlight 
+INFO: [4333bb3c-11ff-4ae4-b649-fe55c2e618dc] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=19.07 view=13.11 db=0.90 host=greenlight 
+INFO: [76767f91-2644-415f-bc70-e638d5a30b12] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=18.97 view=13.40 db=0.71 host=greenlight 
+INFO: [6cc4eae3-f275-4fbf-bf11-a187c3df9980] Support: demo@uplinklearning.com is attempting to login. 
+INFO: [6cc4eae3-f275-4fbf-bf11-a187c3df9980] Support: demo@uplinklearning.com has successfully logged in. 
+INFO: [6cc4eae3-f275-4fbf-bf11-a187c3df9980] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=235.38 view=0.00 db=2.40 location=https://demo.uplinklearning.com/b/dem-ynh-jcp host=greenlight 
+INFO: [28a15e94-d570-424e-88d1-43584c2de212] method=GET path=/b/dem-ynh-jcp format=html controller=RoomsController action=show status=200 duration=113.88 view=22.59 db=8.30 host=greenlight 
+INFO: [9ee611ef-54ca-45cf-970a-d7013f0033eb] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=20.75 view=12.24 db=1.95 host=greenlight 
+INFO: [221ea421-3329-4c31-b2f2-d9841a653e4e] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=18.26 view=13.23 db=0.67 host=greenlight 
+INFO: [6f401eea-d529-4216-a5a1-2f8203da0648] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=18.52 view=13.43 db=0.58 host=greenlight 
+INFO: [67dbf040-b6f0-4af9-b942-f32cecb791e8] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=22.44 view=16.55 db=0.89 host=greenlight 
+INFO: [51744ebb-969e-422a-b9f5-b6c0383c5171] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=18.03 view=12.18 db=0.81 host=greenlight 
+INFO: [81f54132-b887-4c1a-a710-ce3b5fd42db2] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=18.39 view=12.34 db=0.80 host=greenlight 
+INFO: [808b02d6-10f3-405b-a8fe-5a24cf4f4689] Support: niaz@uplinklearning.com is attempting to login. 
+INFO: [808b02d6-10f3-405b-a8fe-5a24cf4f4689] Support: niaz@uplinklearning.com has successfully logged in. 
+INFO: [808b02d6-10f3-405b-a8fe-5a24cf4f4689] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=238.29 view=0.00 db=2.62 location=https://demo.uplinklearning.com/b/nia-3zm-vrz host=greenlight 
+INFO: [72b92e8e-9d4e-4810-b479-63830c062102] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=108.17 view=35.02 db=7.99 host=greenlight 
+INFO: [ccf5fb5c-7392-4475-b626-33bc1d978606] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=19.25 view=13.42 db=0.78 host=greenlight 
+INFO: [d92c6f33-9e37-4b84-a5af-97658bcd9606] Support: tahseen@uplinklearning.com is attempting to login. 
+INFO: [d92c6f33-9e37-4b84-a5af-97658bcd9606] Support: tahseen@uplinklearning.com has successfully logged in. 
+INFO: [d92c6f33-9e37-4b84-a5af-97658bcd9606] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=234.52 view=0.00 db=2.37 location=https://demo.uplinklearning.com/b/tah-q2h-7da host=greenlight 
+INFO: [e697d415-ccc9-445d-a010-aefac67467b8] method=GET path=/b/tah-q2h-7da format=html controller=RoomsController action=show status=200 duration=87.54 view=18.25 db=7.66 host=greenlight 
+INFO: [23006903-5969-42f0-9599-3a3cdafeaa07] Support: tahseen@uplinklearning.com is starting room tah-q2h-7da 
+INFO: [23006903-5969-42f0-9599-3a3cdafeaa07] [ActiveJob] Enqueued NotifyUserWaitingJob (Job ID: 025e9c60-1615-4471-a6ac-713d4bc993fe) to Async(default) at 2020-05-08 01:43:23 UTC with arguments: #<GlobalID:0x000055e20fd8fe68 @uri=#<URI::GID gid://greenlight/Room/2>> 
+INFO: [23006903-5969-42f0-9599-3a3cdafeaa07] method=POST path=/b/tah-q2h-7da/start format=html controller=RoomsController action=start status=302 duration=204.19 view=0.00 db=4.34 location=https://demo.uplinklearning.com/bigbluebutton/api/join host=greenlight 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [025e9c60-1615-4471-a6ac-713d4bc993fe] Performing NotifyUserWaitingJob (Job ID: 025e9c60-1615-4471-a6ac-713d4bc993fe) from Async(default) with arguments: #<GlobalID:0x000055e20fcc96c8 @uri=#<URI::GID gid://greenlight/Room/2>> 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [025e9c60-1615-4471-a6ac-713d4bc993fe] Performed NotifyUserWaitingJob (Job ID: 025e9c60-1615-4471-a6ac-713d4bc993fe) from Async(default) in 0.18ms 
+INFO: [a3413a87-5853-4d53-99df-63f2f3c50624] Support: niaz@uplinklearning.com is starting room nia-3zm-vrz 
+INFO: [a3413a87-5853-4d53-99df-63f2f3c50624] [ActiveJob] Enqueued NotifyUserWaitingJob (Job ID: 0f22ea49-be00-40c2-b87a-29f5cd389ec7) to Async(default) at 2020-05-08 01:43:41 UTC with arguments: #<GlobalID:0x000055e20f7181e8 @uri=#<URI::GID gid://greenlight/Room/1>> 
+INFO: [a3413a87-5853-4d53-99df-63f2f3c50624] method=POST path=/b/nia-3zm-vrz/start format=html controller=RoomsController action=start status=302 duration=117.27 view=0.00 db=4.78 location=https://demo.uplinklearning.com/bigbluebutton/api/join host=greenlight 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [0f22ea49-be00-40c2-b87a-29f5cd389ec7] Performing NotifyUserWaitingJob (Job ID: 0f22ea49-be00-40c2-b87a-29f5cd389ec7) from Async(default) with arguments: #<GlobalID:0x000055e20f69e708 @uri=#<URI::GID gid://greenlight/Room/1>> 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [0f22ea49-be00-40c2-b87a-29f5cd389ec7] Performed NotifyUserWaitingJob (Job ID: 0f22ea49-be00-40c2-b87a-29f5cd389ec7) from Async(default) in 0.19ms 
+INFO: [d0b20825-6622-4b0e-892f-496212bf1dbe] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=23.48 view=17.86 db=0.57 host=greenlight 
+INFO: [bee021d5-7473-475e-aafd-988b74b851ca] Support: farhan@uplinklearning.com is attempting to login. 
+INFO: [bee021d5-7473-475e-aafd-988b74b851ca] Support: farhan@uplinklearning.com has successfully logged in. 
+INFO: [bee021d5-7473-475e-aafd-988b74b851ca] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=235.66 view=0.00 db=2.50 location=https://demo.uplinklearning.com/b/far-udc-ugr host=greenlight 
+INFO: [b270a8e3-4f07-4717-b7d9-3727787d0f92] method=GET path=/b/far-udc-ugr format=html controller=RoomsController action=show status=200 duration=62.70 view=18.87 db=8.17 host=greenlight 
+INFO: [f8d1b932-911e-4308-8c91-526bbb5e87b6] method=GET path=/b/far-udc-ugr format=html controller=RoomsController action=show status=200 duration=63.53 view=19.02 db=6.93 host=greenlight 
+INFO: [f8df94ba-6eac-402a-b582-a0648f91b107] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=22.83 view=17.34 db=0.59 host=greenlight 
+INFO: [cf9e0679-4e8a-4d8c-80a5-8c0c4d3b0543] Support: farhan@uplinklearning.com is starting room far-udc-ugr 
+INFO: [cf9e0679-4e8a-4d8c-80a5-8c0c4d3b0543] [ActiveJob] Enqueued NotifyUserWaitingJob (Job ID: 8bc4afc3-c298-4dfc-b40c-3b0fad641007) to Async(default) at 2020-05-08 01:44:09 UTC with arguments: #<GlobalID:0x000055e211a7ba18 @uri=#<URI::GID gid://greenlight/Room/3>> 
+INFO: [cf9e0679-4e8a-4d8c-80a5-8c0c4d3b0543] method=POST path=/b/far-udc-ugr/start format=html controller=RoomsController action=start status=302 duration=181.81 view=0.00 db=34.78 location=https://demo.uplinklearning.com/bigbluebutton/api/join host=greenlight 
+INFO: [70fcbcb3-00aa-45c7-a996-19477b38ab5f] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=18.53 view=12.75 db=0.60 host=greenlight 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [8bc4afc3-c298-4dfc-b40c-3b0fad641007] Performing NotifyUserWaitingJob (Job ID: 8bc4afc3-c298-4dfc-b40c-3b0fad641007) from Async(default) with arguments: #<GlobalID:0x000055e21167ca98 @uri=#<URI::GID gid://greenlight/Room/3>> 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [8bc4afc3-c298-4dfc-b40c-3b0fad641007] Performed NotifyUserWaitingJob (Job ID: 8bc4afc3-c298-4dfc-b40c-3b0fad641007) from Async(default) in 0.2ms 
+INFO: [54f84e12-ec35-4a00-84e6-353f28066321] Support: tahseen@uplinklearning.com is attempting to login. 
+INFO: [54f84e12-ec35-4a00-84e6-353f28066321] Support: tahseen@uplinklearning.com has successfully logged in. 
+INFO: [54f84e12-ec35-4a00-84e6-353f28066321] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=234.56 view=0.00 db=2.34 location=https://demo.uplinklearning.com/b/tah-q2h-7da host=greenlight 
+INFO: [3837f9a2-7c3c-4cf1-b953-1c5e07518e09] method=GET path=/b/tah-q2h-7da format=html controller=RoomsController action=show status=200 duration=63.29 view=19.23 db=7.33 host=greenlight 
+INFO: [b5c9af64-9552-4641-a9f5-8ac0285f0338] Support: tahseen@uplinklearning.com is starting room tah-q2h-7da 
+INFO: [b5c9af64-9552-4641-a9f5-8ac0285f0338] [ActiveJob] Enqueued NotifyUserWaitingJob (Job ID: cf0f1837-d74f-45fc-b268-2563535d8ebe) to Async(default) at 2020-05-08 01:44:23 UTC with arguments: #<GlobalID:0x000055e20db95628 @uri=#<URI::GID gid://greenlight/Room/2>> 
+INFO: [b5c9af64-9552-4641-a9f5-8ac0285f0338] method=POST path=/b/tah-q2h-7da/start format=html controller=RoomsController action=start status=302 duration=32.76 view=0.00 db=1.92 location=https://demo.uplinklearning.com/bigbluebutton/api/join host=greenlight 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [cf0f1837-d74f-45fc-b268-2563535d8ebe] Performing NotifyUserWaitingJob (Job ID: cf0f1837-d74f-45fc-b268-2563535d8ebe) from Async(default) with arguments: #<GlobalID:0x000055e20d3e31a0 @uri=#<URI::GID gid://greenlight/Room/2>> 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [cf0f1837-d74f-45fc-b268-2563535d8ebe] Performed NotifyUserWaitingJob (Job ID: cf0f1837-d74f-45fc-b268-2563535d8ebe) from Async(default) in 0.14ms 
+INFO: [f50394bc-7703-4edd-90d0-4d0262233bca] Support: farhan@uplinklearning.com has left room far-udc-ugr 
+INFO: [f50394bc-7703-4edd-90d0-4d0262233bca] method=GET path=/b/far-udc-ugr/logout format=html controller=RoomsController action=logout status=302 duration=14.72 view=0.00 db=2.00 location=https://demo.uplinklearning.com/b/far-udc-ugr host=greenlight 
+INFO: [880d7be7-7259-4556-a531-04e7a86fac71] method=GET path=/b/far-udc-ugr format=html controller=RoomsController action=show status=200 duration=60.09 view=18.59 db=6.42 host=greenlight 
+INFO: [9e245d8a-13dc-44b2-8334-92aa9d983058] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=19.52 view=14.30 db=0.65 host=greenlight 
+INFO: [f3bcbcf2-ce1a-4e33-941c-78a5d08e1b2b] method=GET path=/b/admins format=html controller=AdminsController action=index status=200 duration=64.07 view=41.74 db=8.49 host=greenlight 
+INFO: [38374d73-b0ba-4052-a915-c39b8f7d7b44] method=GET path=/b/signup format=html controller=SessionsController action=new status=200 duration=25.53 view=16.91 db=0.84 host=greenlight 
+INFO: [1e3281ea-eb1d-477f-b529-d2f0007674a8] method=GET path=/b/tah-q2h-7da format=html controller=RoomsController action=show status=200 duration=61.04 view=18.74 db=6.71 host=greenlight 
+INFO: [0f142ca7-2867-465b-9d91-635db90769dd] method=GET path=/b/tah-q2h-7da format=html controller=RoomsController action=show status=200 duration=101.86 view=33.26 db=9.52 host=greenlight 
+INFO: [a4e2cdbb-5d66-4515-a6de-2b98a290ea48] method=GET path=/b/u/logout format=html controller=SessionsController action=destroy status=302 duration=9.19 view=0.00 db=1.85 location=https://demo.uplinklearning.com/b/ host=greenlight 
+INFO: [59747697-157b-46e3-80fa-4e238672bf43] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=17.36 view=13.04 db=0.49 host=greenlight 
+INFO: [8a9bc0d2-5b66-42d2-b082-1460fbac8b0f] method=GET path=/b/admins/roles format=html controller=AdminsController action=roles status=200 duration=43.99 view=26.17 db=7.88 host=greenlight 
+INFO: [0fe44c02-2461-42fe-928f-4fbfba52a59c] method=GET path=/b/admins/roles format=html controller=AdminsController action=roles status=200 duration=34.89 view=21.98 db=2.93 host=greenlight 
+INFO: [ae501b89-6207-458e-aae6-4ebae96c864f] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=18.18 view=12.47 db=0.58 host=greenlight 
+INFO: [08387e0c-8a47-40d6-a8c8-06cf829420ae] method=GET path=/b/admins format=html controller=AdminsController action=index status=200 duration=43.35 view=23.74 db=7.26 host=greenlight 
+INFO: [841d3ca2-4018-418c-9038-a0e4401c5417] method=GET path=/b/u/gl-boxadpdsdcuw/edit format=html controller=UsersController action=edit status=200 duration=62.84 view=50.82 db=3.83 host=greenlight 
+INFO: [70adae00-6fb5-45cb-8714-a6b831f82c79] Support: tahseen@uplinklearning.com is attempting to login. 
+INFO: [70adae00-6fb5-45cb-8714-a6b831f82c79] Support: tahseen@uplinklearning.com has successfully logged in. 
+INFO: [70adae00-6fb5-45cb-8714-a6b831f82c79] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=234.44 view=0.00 db=2.35 location=https://demo.uplinklearning.com/b/tah-q2h-7da host=greenlight 
+INFO: [fff2777f-c142-4275-ac2d-e5ff54607206] method=GET path=/b/tah-q2h-7da format=html controller=RoomsController action=show status=200 duration=63.30 view=22.45 db=6.60 host=greenlight 
+INFO: [e4a768a4-0b95-4806-a1cb-6f48a4ced9d6] Support: tahseen@uplinklearning.com is starting room tah-q2h-7da 
+INFO: [e4a768a4-0b95-4806-a1cb-6f48a4ced9d6] [ActiveJob] Enqueued NotifyUserWaitingJob (Job ID: 62b396f4-e8c3-4a91-9e8a-1d696c5cb2bd) to Async(default) at 2020-05-08 01:45:18 UTC with arguments: #<GlobalID:0x000055e21184acd0 @uri=#<URI::GID gid://greenlight/Room/2>> 
+INFO: [e4a768a4-0b95-4806-a1cb-6f48a4ced9d6] method=POST path=/b/tah-q2h-7da/start format=html controller=RoomsController action=start status=302 duration=35.87 view=0.00 db=1.90 location=https://demo.uplinklearning.com/bigbluebutton/api/join host=greenlight 
+INFO: [68c506f9-bb34-460a-a98b-c4edf3938b91] method=GET path=/b/u/gl-boxadpdsdcuw/change_password format=html controller=UsersController action=change_password status=200 duration=27.07 view=16.30 db=2.28 host=greenlight 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [62b396f4-e8c3-4a91-9e8a-1d696c5cb2bd] Performing NotifyUserWaitingJob (Job ID: 62b396f4-e8c3-4a91-9e8a-1d696c5cb2bd) from Async(default) with arguments: #<GlobalID:0x000055e21112b4e0 @uri=#<URI::GID gid://greenlight/Room/2>> 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [62b396f4-e8c3-4a91-9e8a-1d696c5cb2bd] Performed NotifyUserWaitingJob (Job ID: 62b396f4-e8c3-4a91-9e8a-1d696c5cb2bd) from Async(default) in 0.14ms 
+INFO: [60d98caa-69ea-445b-9dfa-3a13a753584a] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=25.46 view=20.51 db=0.57 host=greenlight 
+INFO: [91c53bda-8aab-48ea-afca-45a23fa3faf5] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=19.77 view=13.63 db=0.71 host=greenlight 
+INFO: [2dc40129-729b-4cc6-addd-3a86d74c46eb] method=GET path=/b/u/gl-boxadpdsdcuw/change_password format=html controller=UsersController action=change_password status=500 error='NoMethodError: undefined method `greenlight_account?' for nil:NilClass' duration=12.01 view=0.00 db=2.12 host=greenlight 
+FATAL: [2dc40129-729b-4cc6-addd-3a86d74c46eb]    
+FATAL: [2dc40129-729b-4cc6-addd-3a86d74c46eb] NoMethodError (undefined method `greenlight_account?' for nil:NilClass): 
+FATAL: [2dc40129-729b-4cc6-addd-3a86d74c46eb]    
+FATAL: [2dc40129-729b-4cc6-addd-3a86d74c46eb] app/controllers/users_controller.rb:73:in `change_password' 
+INFO: [2dc40129-729b-4cc6-addd-3a86d74c46eb] method=GET path=/b/500 format=html controller=ErrorsController action=internal_error status=500 duration=18.11 view=15.14 db=0.07 host=greenlight 
+INFO: [be77a615-0381-42ea-9f5d-49ee26efb255] method=PATCH path=/b/u/gl-boxadpdsdcuw/edit format=html controller=UsersController action=update status=302 duration=497.10 view=0.00 db=31.84 location=https://demo.uplinklearning.com/b/u/gl-boxadpdsdcuw/change_password host=greenlight 
+INFO: [58979b2c-c860-460c-863b-1e578d35339f] method=GET path=/b/u/gl-boxadpdsdcuw/change_password format=html controller=UsersController action=change_password status=200 duration=29.93 view=20.72 db=1.81 host=greenlight 
+INFO: [957c2712-4dba-49c9-9fbc-357a9fe47d9c] Support: demo@uplinkleanring.com is attempting to login. 
+INFO: [957c2712-4dba-49c9-9fbc-357a9fe47d9c] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=7.59 view=0.00 db=0.90 location=https://demo.uplinklearning.com/b/signin host=greenlight 
+INFO: [ed060ce3-dabf-46e5-82f5-c396de922cf8] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=38.73 view=33.09 db=0.63 host=greenlight 
+INFO: [4e53920a-c281-497d-88e2-1b710c2099e6] method=GET path=/b/u/logout format=html controller=SessionsController action=destroy status=302 duration=13.86 view=0.00 db=1.60 location=https://demo.uplinklearning.com/b/ host=greenlight 
+INFO: [6f9aa743-0fb7-4462-96f7-e14140442cd0] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=60.11 view=50.81 db=0.72 host=greenlight 
+INFO: [e2ba7d90-7ac9-4934-82e8-e7cc164f546d] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=22.27 view=13.78 db=1.41 host=greenlight 
+INFO: [61b9c218-c89d-44a4-8325-54ea15678293] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=22.73 view=14.69 db=1.50 host=greenlight 
+INFO: [3e89c2c2-c601-4229-b2c8-41a336149fbf] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=205.48 view=21.57 db=8.44 host=greenlight 
+INFO: [39c3edcb-05fb-4054-b559-6556e09861b1] Support: niaz@uplinklearning.com is starting room nia-3zm-vrz 
+INFO: [39c3edcb-05fb-4054-b559-6556e09861b1] [ActiveJob] Enqueued NotifyUserWaitingJob (Job ID: 43ae5adb-5f47-4baf-bdef-c28814333a18) to Async(default) at 2020-05-08 01:49:10 UTC with arguments: #<GlobalID:0x000055e20f867120 @uri=#<URI::GID gid://greenlight/Room/1>> 
+INFO: [39c3edcb-05fb-4054-b559-6556e09861b1] method=POST path=/b/nia-3zm-vrz/start format=html controller=RoomsController action=start status=302 duration=1088.13 view=0.00 db=6.05 location=https://demo.uplinklearning.com/bigbluebutton/api/join host=greenlight 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [43ae5adb-5f47-4baf-bdef-c28814333a18] Performing NotifyUserWaitingJob (Job ID: 43ae5adb-5f47-4baf-bdef-c28814333a18) from Async(default) with arguments: #<GlobalID:0x000055e20f80b578 @uri=#<URI::GID gid://greenlight/Room/1>> 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [43ae5adb-5f47-4baf-bdef-c28814333a18] Performed NotifyUserWaitingJob (Job ID: 43ae5adb-5f47-4baf-bdef-c28814333a18) from Async(default) in 0.22ms 
+INFO: [191d35b9-3fd9-4450-a09a-c0e36ded5734] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=25.57 view=19.57 db=0.78 host=greenlight 
+INFO: [71e70893-7c99-4a96-9163-a4a28db63779] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=18.99 view=13.11 db=0.57 host=greenlight 
+INFO: [ee714040-9df4-49bb-abad-79176ad2312e] Support: farhan@uplinklearning.com is attempting to login. 
+INFO: [ee714040-9df4-49bb-abad-79176ad2312e] Support: farhan@uplinklearning.com has successfully logged in. 
+INFO: [ee714040-9df4-49bb-abad-79176ad2312e] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=235.51 view=0.00 db=2.34 location=https://demo.uplinklearning.com/b/far-udc-ugr host=greenlight 
+INFO: [d79c46a1-4075-461c-8610-fc6473940a49] method=GET path=/b/far-udc-ugr format=html controller=RoomsController action=show status=200 duration=65.42 view=20.13 db=7.10 host=greenlight 
+INFO: [d885c18b-6715-455d-a496-ce0b7a7e4bec] method=GET path=/b/far-udc-ugr format=html controller=RoomsController action=show status=200 duration=65.01 view=20.15 db=6.89 host=greenlight 
+INFO: [2ab76b18-d396-432e-a16d-96e17496c493] Support: farhan@uplinklearning.com is starting room far-udc-ugr 
+INFO: [2ab76b18-d396-432e-a16d-96e17496c493] [ActiveJob] Enqueued NotifyUserWaitingJob (Job ID: 15dc21aa-717f-4673-97a6-86945499b06f) to Async(default) at 2020-05-08 01:50:24 UTC with arguments: #<GlobalID:0x000055e20dfd64a8 @uri=#<URI::GID gid://greenlight/Room/3>> 
+INFO: [2ab76b18-d396-432e-a16d-96e17496c493] method=POST path=/b/far-udc-ugr/start format=html controller=RoomsController action=start status=302 duration=210.95 view=0.00 db=28.97 location=https://demo.uplinklearning.com/bigbluebutton/api/join host=greenlight 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [15dc21aa-717f-4673-97a6-86945499b06f] Performing NotifyUserWaitingJob (Job ID: 15dc21aa-717f-4673-97a6-86945499b06f) from Async(default) with arguments: #<GlobalID:0x000055e20deb0dd0 @uri=#<URI::GID gid://greenlight/Room/3>> 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [15dc21aa-717f-4673-97a6-86945499b06f] Performed NotifyUserWaitingJob (Job ID: 15dc21aa-717f-4673-97a6-86945499b06f) from Async(default) in 0.14ms 
+INFO: [86447e53-84ba-424f-ba2e-6f28211d7da7] Support: farhan@uplinklearning.com has left room far-udc-ugr 
+INFO: [86447e53-84ba-424f-ba2e-6f28211d7da7] method=GET path=/b/far-udc-ugr/logout format=html controller=RoomsController action=logout status=302 duration=9.81 view=0.00 db=1.87 location=https://demo.uplinklearning.com/b/far-udc-ugr host=greenlight 
+INFO: [1b0bfcfc-ef94-4cb8-a6a9-b8877433f3aa] method=GET path=/b/far-udc-ugr format=html controller=RoomsController action=show status=200 duration=65.84 view=17.91 db=7.03 host=greenlight 
+INFO: [c8617c5a-a24b-4dce-8f26-d1f90d44a6e3] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=23.40 view=13.98 db=1.97 host=greenlight 
+INFO: [0cccb892-b9a7-4572-9cbb-31a06701f3e1] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=22.34 view=14.29 db=1.47 host=greenlight 
+INFO: [36010ffd-5e1b-4c6e-a264-531f688f1c6a] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=22.40 view=13.64 db=1.97 host=greenlight 
+INFO: [01f0538e-8821-4c14-a2bb-78088b203041] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=101.29 view=18.50 db=7.64 host=greenlight 
+INFO: [e1224f21-a845-4504-a7a7-2b1f7c8e4d67] method=GET path=/b/ format=*/* controller=MainController action=index status=200 duration=28.52 view=13.00 db=4.92 host=greenlight 
+INFO: [cf642953-9a99-4d13-9c00-bc92f7d6d599] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=27.28 view=13.29 db=4.13 host=greenlight 
+INFO: [5bc04763-9aca-441b-b69f-1406831773d1] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=31.45 view=17.10 db=4.74 host=greenlight 
+INFO: [92afeaa1-1646-44db-8fd1-c221bfdd1e73] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=26.02 view=12.50 db=4.12 host=greenlight 
+INFO: [716f4277-fa1c-45f3-9c4c-1a25957c200d] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=79.74 view=44.49 db=9.99 host=greenlight 
+INFO: [c7900a11-b18d-4f5d-b263-9d8f7a576b5e] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=79.40 view=39.01 db=9.40 host=greenlight 
+INFO: [f749f252-56f2-43ea-b12c-31f3ea5703ac] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=79.08 view=38.33 db=9.29 host=greenlight 
+INFO: [c445606f-819c-4aaf-9381-456c87d1fa83] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=19.97 view=13.95 db=0.74 host=greenlight 
+INFO: [a0acc499-ce0f-4d6b-bfc2-b475671912c0] Support: niaz@uplinklearning.com is attempting to login. 
+INFO: [a0acc499-ce0f-4d6b-bfc2-b475671912c0] Support: niaz@uplinklearning.com has successfully logged in. 
+INFO: [a0acc499-ce0f-4d6b-bfc2-b475671912c0] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=271.31 view=0.00 db=8.35 location=https://demo.uplinklearning.com/b/nia-3zm-vrz host=greenlight 
+INFO: [7cc51df5-c5e1-48ec-bd5f-d140b3431780] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=119.17 view=28.45 db=10.01 host=greenlight 
+INFO: [9fc996c4-53e0-4a77-a390-ebdc591b25c1] Support: niaz@uplinklearning.com is starting room nia-3zm-vrz 
+INFO: [9fc996c4-53e0-4a77-a390-ebdc591b25c1] [ActiveJob] Enqueued NotifyUserWaitingJob (Job ID: ba141bcf-380e-4318-b151-010342ad6d5f) to Async(default) at 2020-05-09 00:29:04 UTC with arguments: #<GlobalID:0x00005618661f0160 @uri=#<URI::GID gid://greenlight/Room/1>> 
+INFO: [9fc996c4-53e0-4a77-a390-ebdc591b25c1] method=POST path=/b/nia-3zm-vrz/start format=html controller=RoomsController action=start status=302 duration=200.75 view=0.00 db=5.37 location=https://demo.uplinklearning.com/bigbluebutton/api/join host=greenlight 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [ba141bcf-380e-4318-b151-010342ad6d5f] Performing NotifyUserWaitingJob (Job ID: ba141bcf-380e-4318-b151-010342ad6d5f) from Async(default) with arguments: #<GlobalID:0x00005618661d9398 @uri=#<URI::GID gid://greenlight/Room/1>> 
+INFO: [ActiveJob] [NotifyUserWaitingJob] [ba141bcf-380e-4318-b151-010342ad6d5f] Performed NotifyUserWaitingJob (Job ID: ba141bcf-380e-4318-b151-010342ad6d5f) from Async(default) in 4.67ms 
+INFO: [1ce81107-b249-4758-8271-b95e154ca5df] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=26.06 view=11.88 db=4.73 host=greenlight 
+INFO: [f67ff339-119b-428e-bcc4-eef2c7bfd769] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=28.08 view=13.57 db=4.80 host=greenlight 
+INFO: [9889d21a-f634-4630-91fd-da4f9b85b31e] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=26.34 view=20.71 db=0.84 host=greenlight 
+INFO: [536f2a1f-490a-45d9-949d-fe0194dd9c4c] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=17.85 view=11.99 db=1.01 host=greenlight 
+INFO: [f83c2017-80f1-45dd-820c-90953fd3f85e] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=19.38 view=13.12 db=0.92 host=greenlight 
+INFO: [62a98edd-b95f-43c0-8039-d996271b671e] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=21.89 view=12.69 db=2.18 host=greenlight 
+INFO: [041e4bf0-59d0-4f00-bcf9-ee269f4c9f87] method=GET path=/b/u/logout format=html controller=SessionsController action=destroy status=302 duration=8.93 view=0.00 db=2.07 location=https://demo.uplinklearning.com/b/ host=greenlight 
+INFO: [f5fc4cfd-174e-4717-8b0c-6f264479dd9b] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=19.56 view=14.96 db=0.73 host=greenlight 
+INFO: [d73d88df-259d-49a4-806b-4e52f56a7393] method=GET path=/b/ format=html controller=MainController action=index status=200 duration=23.96 view=18.44 db=0.82 host=greenlight 
+INFO: [4621a6de-f773-4ebc-8665-b5f3cd9053c9] method=GET path=/b/signin format=html controller=SessionsController action=signin status=200 duration=18.15 view=12.31 db=0.78 host=greenlight 
+INFO: [57786dfa-ff38-42cf-a457-0a7198fcb96a] Support: niaz@uplinklearning.com is attempting to login. 
+INFO: [57786dfa-ff38-42cf-a457-0a7198fcb96a] Support: niaz@uplinklearning.com has successfully logged in. 
+INFO: [57786dfa-ff38-42cf-a457-0a7198fcb96a] method=POST path=/b/u/login format=html controller=SessionsController action=create status=302 duration=234.34 view=0.00 db=2.08 location=https://demo.uplinklearning.com/b/nia-3zm-vrz host=greenlight 
+INFO: [5c46eb44-c4bf-48ae-b073-d91427f3a377] method=GET path=/b/nia-3zm-vrz format=html controller=RoomsController action=show status=200 duration=98.11 view=17.56 db=7.52 host=greenlight 

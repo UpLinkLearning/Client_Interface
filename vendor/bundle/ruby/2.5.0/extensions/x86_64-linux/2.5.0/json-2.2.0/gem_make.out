@@ -1,0 +1,13 @@
+current directory: /usr/src/app/vendor/bundle/ruby/2.5.0/gems/json-2.2.0/ext/json
+/usr/local/bin/ruby -r ./siteconf20200429-8-1sophty.rb extconf.rb
+creating Makefile
+
+current directory: /usr/src/app/vendor/bundle/ruby/2.5.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /usr/src/app/vendor/bundle/ruby/2.5.0/gems/json-2.2.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /usr/src/app/vendor/bundle/ruby/2.5.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" install
